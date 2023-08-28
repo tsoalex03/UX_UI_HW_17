@@ -41,3 +41,22 @@
     vertical-align: top;
     margin: auto;
 }
+
+.MyUXSKills {
+    display: flex;
+}
+.SkillCard1 {
+        width: 33%;
+        margin: 20px;
+        padding: 15px;
+    }
+.SkillCard2 {
+        width: 33%;
+        margin: 20px;
+        padding: 15px;
+    }
+.SkillCard3 {
+        width: 33%;
+        margin: 20px;
+        padding: 15px;
+    }
